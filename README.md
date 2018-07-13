@@ -9,7 +9,7 @@ pip install git+https://github.com/codevance/python-deathbycaptcha.git
 ```
 
 ## Example
-```
+```python
 import deathbycaptcha
 
     # Put your DBC account username and password here.
